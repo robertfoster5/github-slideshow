@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Sample Text Sample Text Sample Text Sample Text
+How do you think the Unthinkable. An Itheberg.
 Use the left arrow to go back!
