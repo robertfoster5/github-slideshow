@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Proposal"
 ---
-How do you think the Unthinkable. An Itheberg.
-Use the left arrow to go back!
+3 sensory inputs: swipe finger to block infrared detector; push down on thumb joystick; flick thumb joystick
+
