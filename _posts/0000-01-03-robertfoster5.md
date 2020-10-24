@@ -1,10 +1,10 @@
 ---
 layout: slide
-title: "[You're Name Here]"
+title: "Robert Foster"
 ---
 
-* Something cool about you/cool things you've done
-* Something cool about you/cool things you've done
-* Something cool about you/cool things you've done
+* Lead in project to reconstruct 1958 Hardware-Only Video Game "Tennis For Two"
+* Member of Sailbot Controls Team, a making software to allow sailboats to run autonomously
+* Has much experience with software/hardware development
 
-In the team, I will be heading [Whatever you're heading]!
+In the team, I will be heading software development!
