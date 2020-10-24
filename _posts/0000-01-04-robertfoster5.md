@@ -1,10 +1,10 @@
 ---
 layout: slide
-title: "[You're Name Here]"
+title: Vince Rose
 ---
 
-* Something cool about you/cool things you've done
-* Something cool about you/cool things you've done
-* Something cool about you/cool things you've done
+* I am an Electrical Engineering major planning to graduate spring 2021
+* I am interested in robotics and circuit design
+* I enjoy bouldering when I am not studying
 
-In the team, I will be heading [Whatever you're heading]!
+In the team, I will be heading hardware development!
